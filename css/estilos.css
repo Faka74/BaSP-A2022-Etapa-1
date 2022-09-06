@@ -16,7 +16,6 @@ header {
     z-index: 100;
 }
 
-
 header h1 {
     color: white;
     letter-spacing: 1px;
@@ -24,4 +23,147 @@ header h1 {
     font-weight: 500;
     margin-top: 0;
     line-height: 120px;
+}
+
+.container-section {
+    margin-left: 60px;
+    border-top: 3px solid black;
+    margin-top: 50px;
+    padding-top: 40px;
+    position: relative;
+    color: #373867;
+
+}
+
+.h3-weight {
+    font-weight: 500;
+}
+
+.container-float {
+    float: right;
+    width: 85%;
+    margin-right: 25px;
+}
+
+.btn-learn {
+    float: right;
+    position: relative;
+    top: 20px;
+    left: 30px;
+    background-color: white;
+    box-shadow: grey 0px 10px 10px;
+    border: none;
+    border-radius: 5px;
+    width: 200px;
+    height: 50px;
+    transition: all 0.3s;
+}
+
+.btn-learn a:hover {
+    color: white;
+}
+
+.btn-learn:hover {
+    background-color: #AACE9B;
+    color: white;
+}
+
+.inline-block-main {
+    display: inline-block;
+    width: 35%;
+}
+
+.inline-block-main2 {
+    display: inline-block;
+    width: 35%;
+    position: relative;
+    bottom: 100px;
+}
+
+.container-section2 {
+    margin-top: 20px;
+    margin-left: 60px;
+    padding-top: 70px;
+    border-top: 3px solid black;
+}
+
+.img-section {
+    width: 570px;
+    border-radius: 4px;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.img-reports {
+    width: 60px;
+    position: relative;
+    top: -80px;
+}
+
+.img-container {
+    display: inline-block;
+    width: 49%;
+}
+
+.inline-block-section1 {
+    display: inline-block;
+}
+
+.inline-block-section2 {
+    display: inline-block;
+    width: 80%;
+}
+
+.inline-block-section2 p {
+    color: #41426F;
+    font-weight: 500;
+}
+
+.container-info {
+    border-top: 3px solid black;
+}
+
+.inline-block-section3 {
+    display: inline-block;
+    width: 49%;
+}
+
+.img-section2 {
+    width: 50px;
+    position: relative;
+    top: -41px;
+    left: 136px;
+}
+
+.img-section3 {
+    width: 50px;
+    position: relative;
+    top: -41px;
+    left: 138px;
+}
+
+.img-section4 {
+    width: 50px;
+    position: relative;
+    top: -60px;
+    left: 138px;
+}
+
+.img-section5 {
+    width: 50px;
+    position: relative;
+    top: -41px;
+    left: 138px;
+}
+
+.h2-section-trackgenix {
+    border-bottom: 2px solid black;
+    width: 19%;
+    padding-bottom: 6px;
+    margin-left: 30px;
+}
+
+.inline-block-section4 {
+    display: inline-block;
+    width: 49%;
 }
