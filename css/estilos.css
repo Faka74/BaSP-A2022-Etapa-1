@@ -394,7 +394,11 @@ ul {
     padding-top: 20px;
     text-align: center;
 }
-
+.margin {
+    padding-top: 22px;
+    margin-top: 180px;
+    border-top: 3px solid black;
+}
 .width-img {
     width: 30px;
     padding-left: 30px;
