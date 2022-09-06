@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: #41426F;
+    height: 120px;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    position: fixed;
+    top: 0px;
+    z-index: 100;
+}
+
+
+header h1 {
+    color: white;
+    letter-spacing: 1px;
+    padding-left: 20px;
+    font-weight: 500;
+    margin-top: 0;
+    line-height: 120px;
+}
