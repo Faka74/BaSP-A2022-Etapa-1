@@ -344,3 +344,15 @@ ul {
     bottom: 30px;
     right: 50px;
 }
+
+.container-footer {
+    background-color: #41426F;
+    text-align: center;
+    width: 85%;
+    float: right;
+}
+
+.footer-icons {
+    width: 60px;
+    padding-left: 30px;
+}
