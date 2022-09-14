@@ -10,4 +10,4 @@ Week four:In week four is where everything starts to get nice since we begin to 
 
 Pd:The expectations to continue with this course are very high, the group that was formed always goes forward and they seem to be good people
 
-IMPORTANT: In this problem I had problems with min width since I had never used it before, but using max width I got better and more correct results.
+Pd:In this problem I had problems with min width since I had never used it before, but using max width I got better and more correct results.
