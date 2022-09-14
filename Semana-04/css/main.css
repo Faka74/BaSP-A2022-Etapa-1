@@ -1,0 +1,283 @@
+section{
+    border-top: 2px solid black;
+    padding: 30px 30px;
+}
+
+.main-content {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.main-container {
+    height: 450px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: end;
+    margin-top: 0px;
+    padding: 0px 20px;
+    gap: 27px;
+}
+
+.main-container-div1 {
+    width: 40%;
+    line-height: 30px;
+}
+
+
+.button-container {
+    display: flex;
+    justify-content: end;
+    padding-right: 30px;
+}
+
+.button-son:hover {
+    background-color: #AACE9B;
+    color: white;
+}
+
+.button-son {
+    border: none;
+    border-radius: 5px;
+    width: 200px;
+    height: 50px;
+    transition: all 0.3s;
+    box-shadow: grey 0px 10px 10px;
+    background-color: white;
+    transition: all 0.3s;
+}
+
+.main-container-div2 {
+    width: 40%;
+}
+
+.img-section1 {
+    width: 100%;
+    height: 175px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.img-section2 {
+    width: 61px;
+}
+
+.section-container {
+    padding-top: 40px;
+    padding-left: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.div-flex-section {
+    display: flex;
+    width: 68%;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.section-div-1 {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    padding: 40px;
+}
+
+.section-div-1 h2 {
+    margin-top: 15px;
+    padding-left: 3px;
+}
+
+
+.section-container2 {
+    padding-top: 40px;
+}
+
+.h2-container {
+    display: flex;
+    justify-content: start;
+    padding-left: 290px;
+    font-size: 19px;
+}
+
+.h2-container h2 {
+    padding-bottom: 10px;
+    border-bottom: 3px solid black;
+}
+
+.section-div-2 {
+    display: flex;
+    justify-content: end;
+    padding-left: 275px;
+    width: 100%;
+}
+.img-section3 {
+    width: 45px;
+}
+
+.h3-adjust-size {
+    margin-top: 13px;
+}
+
+.section-div-son-1 {
+    display: flex;
+    width: 100%;
+    flex-basis: 50%;
+}
+
+.section-container3 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-top: 80px;
+    padding-left: 200px;
+}
+
+.container-section-form {
+    background-color: #AACE9B;
+    padding: 50px;
+    width: 50%;
+    height: 565px;
+    border-radius: 20px;
+}
+
+.section-div-3 {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.input-styles {
+    width: 100%;
+    height: 40px;
+    border-radius: 7px;
+    border: none;
+    border: 2px solid #373867;
+    background-color: #AACE9B;
+}
+
+
+.contact-position {
+    display: flex;
+    justify-content: center;
+}
+
+.input-styles-contact {
+    width: 100%;
+    height: 40px;
+    border-radius: 7px;
+    border: 2px solid #373867;
+    background-color: #AACE9B;
+}
+
+.message-position {
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+}
+
+.button-position {
+    display: flex;
+    justify-content: end;
+    width: 100%;
+}
+
+.button-style {
+    background-color: white;
+    border: 2px solid #373867;
+    text-decoration: none;
+    border-radius: 7px;
+    width: 255px;
+    height: 50px;
+    box-shadow: 0px 4px 5px 0px rgba(79, 72, 72, 0.75);
+    transition: all 0.3s;
+}
+
+.button-style:hover {
+    background-color: #373867;
+    color: white;
+}
+
+.input-textarea {
+    width: 100%;
+    border-radius: 7px;
+    border: 2px solid #373867;
+}
+
+.section-container-4 {
+    margin-top: 75px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.section-flex {
+    display: flex;
+    width: 80%;
+    justify-content: end;
+}
+
+.flex-img-section {
+    display: flex;
+    width: 53%;
+}
+
+.spacing-div {
+    width:30%;
+    margin-right: 30px;
+    font-size: 20px;
+}
+
+.img-section4 {
+    width: 100%;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.flex-img-section{
+    display: flex;
+
+}
+
+.width-p {
+    width: 78%;
+    display: flex;
+    justify-content: center;
+    margin-top: 8px;
+}
+
+.flex-p {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    font-size: 22px;
+}
+
+
+
+.d-flex-container-div {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    font-size: 20px;
+    padding-top: 60px;
+}
+
+.d-flex-div {
+    display: flex;
+}
+
+.li-styles {
+    list-style: none;
+    padding-top: 10px;
+}
+
+.wrapping-section{
+    width: 10%;
+}
+
+.input-size{
+    width: 49%;
+}
