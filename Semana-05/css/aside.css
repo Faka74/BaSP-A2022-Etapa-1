@@ -1,0 +1,128 @@
+.aside-container {
+    position: fixed;
+    top: 85px;
+    width: 16%;
+    height: 100vh;
+    flex-direction: column;
+    background-color: #41426F;
+}
+
+.color-text-aside {
+    color: white;
+    font-weight: 500;
+    border-bottom: 3px solid #AACE9B;
+    width: 35%;
+    margin-left: 15px;
+    font-size: 25px;
+}
+
+.container-input-search {
+    display: flex;
+    justify-content: center;
+}
+
+.input-search {
+    background-color: #373867;
+    border: 1px solid whitesmoke;
+    border-radius: 4px;
+    width: 90%;
+    height: 33px;
+}
+
+.input-search::placeholder {
+    color: rgb(167, 165, 165);
+    padding-left: 5px;
+}
+
+.d-flex-aside {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #373867;
+    background-color: white;
+    width: 90%;
+    height: 40px;
+    margin: 20px 10px;
+    border-radius: 3px;
+    transition: all 0.3s;
+
+}
+
+.d-flex-aside2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #373867;
+    background-color: white;
+    width: 90%;
+    height: 40px;
+    margin: 20px 10px;
+    border-radius: 3px;
+    transition: all 0.3s;
+}
+
+.d-flex-aside3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #373867;
+    background-color: white;
+    width: 90%;
+    height: 40px;
+    margin: 20px 10px;
+    border-radius: 3px;
+    transition: all 0.3s;
+
+}
+
+.color-text-aside2 {
+    color: white;
+    font-weight: 500;
+    border-bottom: 3px solid #AACE9B;
+    width: 60%;
+    margin-left: 5px;
+    font-size: 20px;
+}
+
+.container-p-aside {
+    padding: 0px 10px;
+    color: white;
+    font-size: 13px;
+}
+
+.d-flex-aside4 {
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    color: white;
+    font-weight: 500;
+}
+
+.d-flex-aside5 {
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    color: white;
+    font-weight: 500;
+    border-top: 1px solid #AACE9B;
+}
+
+.d-flex-aside:hover {
+    background-color: #AACE9B;
+    color: white;
+}
+
+.d-flex-aside2:hover {
+    background-color: #AACE9B;
+    color: white;
+}
+
+.d-flex-aside3:hover {
+    background-color: #AACE9B;
+    color: white;
+}
+
+.img-aside {
+    width: 20px;
+    height: 20px;
+}
