@@ -1,6 +1,6 @@
 .header-container {
     background-color: rgb(65, 66, 111);
-    position: sticky;
+    position: fixed;
     top: 0px;
     z-index: 10;
     width: 100%;
@@ -9,12 +9,12 @@
 }
 
 .header-son-h1 {
-    padding: 40px;
+    padding: 20px;
     padding-left: 20px;
     letter-spacing: 1px;
     color: white;
     font-weight: 500;
-    margin: 0px;
+    margin-top: 0px;
 }
 
 .img-container{
