@@ -14,8 +14,8 @@ console.log(oracionCompleta);
 var palabra = ('Estas palabras');
 var medidas = ('Seran medidas');
 
-console.log(palabra.length);
-console.log(medidas.length);
+console.log(palabra);
+console.log(medidas);
 
 var resultadoMedicion = (palabra + medidas)
 console.log(resultadoMedicion.length);
