@@ -21,7 +21,7 @@ meses.reverse();
 console.log(meses);
 
 // Exercise-3f
-var meses = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"].join(' - ');
+var meses = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"].join('  - ');
 console.log(meses);
 
 // Exercise-3g
