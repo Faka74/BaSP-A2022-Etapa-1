@@ -1,5 +1,5 @@
 // Exercise-1a
-var numeroUno = 15;
+var numeroUno = 20;
 var numeroDos = 5;
 var sumados = numeroUno + numeroDos;
 console.log(sumados);
