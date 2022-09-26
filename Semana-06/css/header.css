@@ -1,0 +1,25 @@
+.header-container {
+    background-color: rgb(65, 66, 111);
+    top: 0px;
+    z-index: 10;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.header-son-h1 {
+    padding: 40px;
+    padding-left: 80px;
+    letter-spacing: 0.5px;
+    color: white;
+    font-weight: 600;
+    margin: 0px;
+}
+
+.img-container{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    padding-right: 50px;
+    visibility: hidden;
+}
