@@ -83,7 +83,6 @@ body {
     box-shadow: 0px 6px 5px 0px rgba(0, 0, 0, 0.75);
     -webkit-box-shadow: 0px 6px 5px 0px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 0px 6px 5px 0px rgba(0, 0, 0, 0.75);
-
 }
 
 .input-button-styles2 {
@@ -97,4 +96,89 @@ body {
     box-shadow: 0px 6px 5px 0px rgba(0, 0, 0, 0.75);
     -webkit-box-shadow: 0px 6px 5px 0px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 0px 6px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+@media (max-width: 800px) {
+    .main-container-son {
+        display: flex;
+        flex-wrap: wrap;
+        width: 70%;
+        padding: 20px 20px 30px 80px;
+        margin-bottom: 50px;
+        border-radius: 16px;
+        box-shadow: 0px 6px 5px 0px rgb(0 0 0 / 75%);
+        -webkit-box-shadow: 0px 6px 5px 0px rgb(0 0 0 / 75%);
+        -moz-box-shadow: 0px 6px 5px 0px rgba(0, 0, 0, 0.75);
+    }
+
+    .input-button-styles {
+        width: 50%;
+        height: 100%;
+        border-radius: 10px;
+        border: none;
+        background-color: #49A37B;
+        color: white;
+        font-weight: 500;
+        box-shadow: 0px 6px 5px 0px rgba(0, 0, 0, 0.75);
+        -webkit-box-shadow: 0px 6px 5px 0px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: 0px 6px 5px 0px rgba(0, 0, 0, 0.75);
+    }
+
+    .input-button-styles2 {
+        width: 50%;
+        height: 100%;
+        border-radius: 10px;
+        border: none;
+        background-color: #41426F;
+        color: white;
+        font-weight: 500;
+        box-shadow: 0px 6px 5px 0px rgba(0, 0, 0, 0.75);
+        -webkit-box-shadow: 0px 6px 5px 0px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: 0px 6px 5px 0px rgba(0, 0, 0, 0.75);
+    }
+}
+
+@media (max-width: 480px) {
+    .container-h3 {
+        display: flex;
+        justify-content: center;
+        padding-right: 40px;
+        color: #41426F;
+        font-size: 25px;
+    }
+
+    .main-container {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        height: 100%;
+    }
+
+    .main-son {
+        width: 100%;
+    }
+
+    .input-button-styles {
+        width: 100%;
+        border-radius: 3px;
+    }
+
+    .input-button-styles2 {
+        width: 100%;
+        border-radius: 3px;
+    }
+
+    .button-container {
+        position: relative;
+        top: 0px;
+        left: 0px;
+    }
+
+    .button-style {
+        padding-right: 0px;
+        margin-right: 25px;
+        width: 35%;
+        height: 60px;
+    }
+
 }
